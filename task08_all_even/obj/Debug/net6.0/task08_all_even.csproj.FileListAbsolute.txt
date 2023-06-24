@@ -1,0 +1,15 @@
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/bin/Debug/net6.0/task08_all_even
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/bin/Debug/net6.0/task08_all_even.deps.json
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/bin/Debug/net6.0/task08_all_even.runtimeconfig.json
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/bin/Debug/net6.0/task08_all_even.dll
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/bin/Debug/net6.0/task08_all_even.pdb
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/obj/Debug/net6.0/task08_all_even.csproj.AssemblyReference.cache
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/obj/Debug/net6.0/task08_all_even.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/obj/Debug/net6.0/task08_all_even.AssemblyInfoInputs.cache
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/obj/Debug/net6.0/task08_all_even.AssemblyInfo.cs
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/obj/Debug/net6.0/task08_all_even.csproj.CoreCompileInputs.cache
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/obj/Debug/net6.0/task08_all_even.dll
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/obj/Debug/net6.0/refint/task08_all_even.dll
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/obj/Debug/net6.0/task08_all_even.pdb
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/obj/Debug/net6.0/task08_all_even.genruntimeconfig.cache
+/Users/mariezhuravleva/Desktop/csharp/task08_all_even/obj/Debug/net6.0/ref/task08_all_even.dll

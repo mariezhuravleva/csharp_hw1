@@ -1,0 +1,15 @@
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/bin/Debug/net6.0/task01_proverka_kvadrata
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/bin/Debug/net6.0/task01_proverka_kvadrata.deps.json
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/bin/Debug/net6.0/task01_proverka_kvadrata.runtimeconfig.json
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/bin/Debug/net6.0/task01_proverka_kvadrata.dll
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/bin/Debug/net6.0/task01_proverka_kvadrata.pdb
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/obj/Debug/net6.0/task01_proverka_kvadrata.csproj.AssemblyReference.cache
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/obj/Debug/net6.0/task01_proverka_kvadrata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/obj/Debug/net6.0/task01_proverka_kvadrata.AssemblyInfoInputs.cache
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/obj/Debug/net6.0/task01_proverka_kvadrata.AssemblyInfo.cs
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/obj/Debug/net6.0/task01_proverka_kvadrata.csproj.CoreCompileInputs.cache
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/obj/Debug/net6.0/task01_proverka_kvadrata.dll
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/obj/Debug/net6.0/refint/task01_proverka_kvadrata.dll
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/obj/Debug/net6.0/task01_proverka_kvadrata.pdb
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/obj/Debug/net6.0/task01_proverka_kvadrata.genruntimeconfig.cache
+/Users/mariezhuravleva/Desktop/csharp/task01_proverka_kvadrata/obj/Debug/net6.0/ref/task01_proverka_kvadrata.dll

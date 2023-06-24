@@ -1,0 +1,15 @@
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/bin/Debug/net6.0/task05_max_min
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/bin/Debug/net6.0/task05_max_min.deps.json
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/bin/Debug/net6.0/task05_max_min.runtimeconfig.json
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/bin/Debug/net6.0/task05_max_min.dll
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/bin/Debug/net6.0/task05_max_min.pdb
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/obj/Debug/net6.0/task05_max_min.csproj.AssemblyReference.cache
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/obj/Debug/net6.0/task05_max_min.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/obj/Debug/net6.0/task05_max_min.AssemblyInfoInputs.cache
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/obj/Debug/net6.0/task05_max_min.AssemblyInfo.cs
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/obj/Debug/net6.0/task05_max_min.csproj.CoreCompileInputs.cache
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/obj/Debug/net6.0/task05_max_min.dll
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/obj/Debug/net6.0/refint/task05_max_min.dll
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/obj/Debug/net6.0/task05_max_min.pdb
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/obj/Debug/net6.0/task05_max_min.genruntimeconfig.cache
+/Users/mariezhuravleva/Desktop/csharp/task05_max_min/obj/Debug/net6.0/ref/task05_max_min.dll

@@ -1,0 +1,15 @@
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/bin/Debug/net6.0/task03_celie_chisla
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/bin/Debug/net6.0/task03_celie_chisla.deps.json
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/bin/Debug/net6.0/task03_celie_chisla.runtimeconfig.json
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/bin/Debug/net6.0/task03_celie_chisla.dll
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/bin/Debug/net6.0/task03_celie_chisla.pdb
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/obj/Debug/net6.0/task03_celie_chisla.csproj.AssemblyReference.cache
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/obj/Debug/net6.0/task03_celie_chisla.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/obj/Debug/net6.0/task03_celie_chisla.AssemblyInfoInputs.cache
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/obj/Debug/net6.0/task03_celie_chisla.AssemblyInfo.cs
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/obj/Debug/net6.0/task03_celie_chisla.csproj.CoreCompileInputs.cache
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/obj/Debug/net6.0/task03_celie_chisla.dll
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/obj/Debug/net6.0/refint/task03_celie_chisla.dll
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/obj/Debug/net6.0/task03_celie_chisla.pdb
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/obj/Debug/net6.0/task03_celie_chisla.genruntimeconfig.cache
+/Users/mariezhuravleva/Desktop/csharp/task03_celie_chisla/obj/Debug/net6.0/ref/task03_celie_chisla.dll
