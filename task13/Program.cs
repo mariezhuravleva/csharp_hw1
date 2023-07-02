@@ -8,12 +8,18 @@
 Console.WriteLine("Enter a number:");
 int number = Convert.ToInt32(Console.ReadLine());
 
+while (number > 999)
+{
+    number = number / 10;
+
+}
+
 if (number < 100)
 {
     Console.WriteLine("No third digit.");
 }
 else
 {
-    int result = number / 100 % 10;
+    int result = number % 10;
     Console.WriteLine("Third number of the entered digit: " + result);
 }
