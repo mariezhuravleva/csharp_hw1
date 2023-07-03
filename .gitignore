@@ -432,4 +432,7 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+### Папка для обучения ###
+/teacher
+
 # End of https://www.toptal.com/developers/gitignore/api/csharp,macos
